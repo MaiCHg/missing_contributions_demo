@@ -9,11 +9,26 @@
     "appModel": "1.1.1",
     "feVersion": "2.11.0",
     "triggers": [],
-    "resources": [],
+    "resources": [
+        {
+            "id": "flow:my_flow",
+            "data": {
+                "name": "my_flow",
+                "description": "",
+                "links": [],
+                "tasks": [],
+                "metadata": {
+                    "input": [],
+                    "output": [],
+                    "fe_metadata": {}
+                }
+            }
+        }
+    ],
     "properties": [],
     "connections": {},
     "contrib": "W10=",
     "id": "1610562191806",
     "createdTime": 1610562191841,
-    "lastUpdatedTime": 1610639247962
+    "lastUpdatedTime": 1610639368196
 }
